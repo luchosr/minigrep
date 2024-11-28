@@ -6,5 +6,5 @@ edition = "2021"
 [dependencies]
 
 [lib]
-name = "my_lib"
-path = "src/my_lib.rs"
+name = "lib"
+path = "src/minigrep/lib.rs"
